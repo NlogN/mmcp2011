@@ -1,5 +1,3 @@
-package makeev.mmcp;
-
 import java.util.ArrayList;
 
 public class Body{

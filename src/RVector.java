@@ -1,5 +1,3 @@
-package makeev.mmcp;
-
 public abstract class RVector {
 	double x, y, z;
 

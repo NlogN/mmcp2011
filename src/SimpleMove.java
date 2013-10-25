@@ -1,6 +1,4 @@
-package makeev.mmcp;
-
-public class SimpleMove extends Move implements Runnable{	
+public class SimpleMove extends Move implements Runnable{
 	
 	public SimpleMove(BodyList v) {
 		super(v);

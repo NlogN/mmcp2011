@@ -1,5 +1,3 @@
-package makeev.mmcp;
-
 public abstract class Move implements Runnable {
 	Thread t;
 	BodyList bodyList;

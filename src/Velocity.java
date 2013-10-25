@@ -1,5 +1,3 @@
-package makeev.mmcp;
-
 public class Velocity extends RVector {
 
 	public Velocity(double x, double y, double z) {

@@ -1,6 +1,4 @@
-package makeev.mmcp;
-
-public class KlastersMove extends Move implements Runnable{	
+public class KlastersMove extends Move implements Runnable{
 	
 	public KlastersMove(BodyList v) {
 		super(v);

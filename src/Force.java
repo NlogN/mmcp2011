@@ -1,6 +1,4 @@
-package makeev.mmcp;
-
-public class Force extends RVector{	
+public class Force extends RVector{
 
 	public Force(double x, double y, double z) {
 		super(x, y, z);
